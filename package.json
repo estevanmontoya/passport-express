@@ -1,0 +1,11 @@
+{
+  "name": "basic-passport-express",
+  "version": "0.0.1",
+  "description": "Simple Node.Js, ExpressJS, and Passport application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Estevan Montoya",
+  "license": "ISC"
+}

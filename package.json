@@ -9,7 +9,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/estevanmontoya/passport-express.git"
-},
+  },
   "author": "Estevan Montoya",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "passport": "^0.3.2"
+  }
 }
